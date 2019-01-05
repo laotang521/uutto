@@ -1,1 +1,1 @@
-document.write("tithub调用js看下效果");
+document.write("This text comes from an external script.");
