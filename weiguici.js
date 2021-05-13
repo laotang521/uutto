@@ -1,6 +1,6 @@
 //001，关键词提醒，刚更新
 //   本页面地址，https://uutto.com/uu/weiguici.js
-
+//看看更新速度
 $(function weiguici(){
 
     $('.weiguici').each(function(index, element) {         
